@@ -16,7 +16,7 @@ This is a public showcase repo — project overview, concept docs, and select co
 
 ## About me
 
-17, building this solo alongside a small automation agency. Open to connecting with other founders — reach out via [LinkedIn](www.linkedin.com/in/carlo-hoppenbrock-868349433), my other Projekt (https://github.com/Zenlosmas/agency-showcase.git)
+17, building this solo alongside a small automation agency. Open to connecting with other founders — reach out via [LinkedIn](https://www.linkedin.com/in/carlo-hoppenbrock-868349433), my other Projekt (https://github.com/Zenlosmas/agency-showcase.git)
 
 ---
 
